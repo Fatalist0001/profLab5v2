@@ -1,28 +1,27 @@
 .header {
     justify-content: center;
-    text-align:center;
+    text-align: center;
+    background-color: lightblue; /* Добавляем цвет фона */
+    padding: 10px; /* Добавляем отступы */
 }
+
 ol li {
     list-style-position: inside;
 }
+
 .exam {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Arial', sans-serif; /* Меняем шрифт */
+    color: navy; /* Меняем цвет текста */
 }
+
 #table {
-    line-height:200%
+    line-height: 200%;
+    border: 1px solid black; /* Добавляем границу */
 }
+
 footer {
-    padding-top: 3px;
-    padding-bottom: 3px;
-    padding-left:  30px;
+    padding: 10px; /* Увеличиваем отступы */
     background: #444;
     color: white;
-}
-a.foo:hover {
-  text-decoration-color: black;
-  color: black;
-}
-a.foo {
-  text-decoration-color: white;
-  color: white;
+    text-align: center; /* Выравниваем текст по центру */
 }

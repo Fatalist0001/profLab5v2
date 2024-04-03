@@ -17,3 +17,9 @@
     - `git push`
     - `git commit -m "update README.md"`
     - `git push`
+3. **Изменение style.css**
+    - `git add .`
+    - `git commit -am "update style.css"`
+    - `git push`
+    - `git commit -m "update README.md"`
+    - `git push`

@@ -13,4 +13,7 @@
 2. **Добавление index.html и style.css:**
     - `cd /root/pr/profLab5`
     - `git add .`
+    - `git commit -am "add index.html and style.css"`
+    - `git push`
+    - `git commit -m "update README.md"`
     - `git push`

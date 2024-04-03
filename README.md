@@ -10,4 +10,7 @@
     - `git push`
     - `git commit -am "update  README.md"`
     - `git push`
-2. 
+2. **Добавление index.html и style.css:**
+    - `cd /root/pr/profLab5`
+    - `git add .`
+    - `git push`
